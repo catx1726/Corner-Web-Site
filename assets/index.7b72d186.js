@@ -1,0 +1,1 @@
+import{_ as e}from"./index.f2e80b85.js";const o=e({name:"AboutPage"},[["render",function(e,o,t,n,r,s){return"index ~/Documents/code/2022/My-White-Noise-Refactor/src/views/about"}]]);export{o as default};
